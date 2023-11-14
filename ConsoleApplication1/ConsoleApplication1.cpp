@@ -11,7 +11,6 @@ int main()
     std::cout << a;
 
 
-    std::cout << "Hallo World!\n";
-    foo();
+    
 }
 
