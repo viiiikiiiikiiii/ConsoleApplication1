@@ -6,10 +6,11 @@ int main()
     std::cout << "Hello World!\n";
     foo();
 
-    int a;
-    std::cin >> a;
-    std::cout << a;
+    int b;
+    std::cin >> b;
+    std::cout << b;
 
+    std::cout << "MAxim voditel' autobusa" << std::endl;
 
     std::cout << "Hallo World!\n";
     foo();
