@@ -12,7 +12,6 @@ int main()
 
     std::cout << "MAxim voditel' autobusa" << std::endl;
 
-    std::cout << "Hallo World!\n";
-    foo();
+    
 }
 
